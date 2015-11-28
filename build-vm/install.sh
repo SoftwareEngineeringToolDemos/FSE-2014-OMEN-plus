@@ -1,6 +1,7 @@
 #installing packages 
 sudo apt-get update
 sudo apt-get install -y openjdk-7-jre git 
+sudo gsettings set org.gnome.desktop.screensaver lock-enabled false
 # cloning git repo for vm contents
 git clone https://github.com/SoftwareEngineeringToolDemos/FSE-2014-OMEN-plus.git /home/vagrant/Desktop/FSE-2014-OMEN-plus
 # moving files to desktop
