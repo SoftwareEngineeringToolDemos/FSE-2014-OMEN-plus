@@ -18,6 +18,7 @@
   * Create virtual machine using this image
   * Launch VM in GUI mode
   * Install java 1.7 
+  * Install tool related contents in VM
 
 
 ####Acknowledgements:
