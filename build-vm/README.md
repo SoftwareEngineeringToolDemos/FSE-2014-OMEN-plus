@@ -4,6 +4,7 @@
 1. __README.md__ 
 2. __Vagrantfile__ - To set up virtual machine
 3. __install.sh__ - To install required softwares
+4. __vm-contents__- Contents of vitual machine
 
 
 ###Vagrant VirtualBox VM set up instructions:
