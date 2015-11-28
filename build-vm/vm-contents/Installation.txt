@@ -1,13 +1,6 @@
 Download Omen+ tool from http://drona.csa.iisc.ernet.in/~sss/tools/omenplus.html
-
-<<<<<<< HEAD
-1.Installation will start directly in Virtual Box
-2.java version should be 1.7.*
-3.Once installed, open the image
-4.Omen+ tool is on the desktop
-=======
 1. Installation will start directly in Virtual Box
 2. java version should be 1.7.*
 3. Once installed, open the image
 4. Omen+ tool is on the desktop
->>>>>>> origin/master
+
