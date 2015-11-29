@@ -1,6 +1,15 @@
-Download Omen+ tool from http://drona.csa.iisc.ernet.in/~sss/tools/omenplus.html
+Download Omen+ tool from http://drona.csa.iisc.ernet.in/~sss/tools/omenplus.html which comes in virtual machine itself or download the tool from google drive 
+,the access has been given only to ncsu-csc-510@googlegroups.com
+
+When downloading from http://drona.csa.iisc.ernet.in/~sss/tools/omenplus.html, follow these steps:
 1. Installation will start directly in Virtual Box
 2. java version should be 1.7.*
 3. Once installed, open the image
 4. Omen+ tool is on the desktop
+5. Run Omen+ using ReadMe
+
+When using the scripts to recreate the vm:
+1. Running scripts will install java 1.7.* in vm and other contents.
+1. Download tool from google drive, the access has been given only to ncsu-csc-510@googlegroups.com
+2. Run Omen+ using ReadMe
 
