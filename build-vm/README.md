@@ -33,3 +33,4 @@ Used vagrant virtual box image of ubuntu-trusty64-gui by chad-thompson
   * Vm doesn't ask for password while login but after it goes to sleep, it asks for password. Use following credentials:
     Username- vagrant  
     Password- vagrant
+  * The omen+ tool is shared privately with ncs-csc-510 google group on google drive
