@@ -8,9 +8,8 @@ This repository _is not_ the original repository for this tool. Here are some li
 
 In this repository, for Omen+ tool you will find:
 * :x: Source code (not available)
-* :white_check_mark: [The original tool](http://drona.csa.iisc.ernet.in/~sss/tools/tool.ova) (available) 
-* :white_check_mark: [Vagrant Script to create virtual machine containing the tool] (https://github.com/SoftwareEngineeringToolDemos/FSE-2014-OMEN-plus/tree/master/build-vm) (available)
-* :white_check_mark: [Virtual Machine containing tool] (https://drive.google.com/a/ncsu.edu/file/d/0BymSxwClZ8-OcnR3Z2FVV0RXbEk/view) (available)
+* :x: Executable tool (not available)
+* :white_check_mark: [Virtual machine containing tool](http://go.ncsu.edu/SE-tool-VMs)
 
 This repository was constructed by [Akriti Tripathi] (https://github.com/akriti-tripathi) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Malavika Samak and Dr. Murali Krishna Ramanathan for their help in establishing this repository.
 
